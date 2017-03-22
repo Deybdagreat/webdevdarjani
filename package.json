@@ -13,5 +13,13 @@
   "dependencies": {
     "express": "^4.15.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deybdagreat/webdevdarjani.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Deybdagreat/webdevdarjani/issues"
+  },
+  "homepage": "https://github.com/Deybdagreat/webdevdarjani#readme"
 }
